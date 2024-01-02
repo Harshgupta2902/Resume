@@ -182,7 +182,7 @@ audio,canvas,embed,iframe,img,object,svg,video {
 
 img,video {
     max-width: 100%;
-    height: auto
+    height: 40px;
 }
 
 [hidden] {
